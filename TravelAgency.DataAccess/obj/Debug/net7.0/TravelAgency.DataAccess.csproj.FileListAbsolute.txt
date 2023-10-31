@@ -1,0 +1,17 @@
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.DataAccess.deps.json
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.DataAccess.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.DataAccess.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.Models.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.Utilities.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.Models.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\bin\Debug\net7.0\TravelAgency.Utilities.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.csproj.AssemblyReference.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.AssemblyInfo.cs
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.csproj.CopyComplete
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\refint\TravelAgency.DataAccess.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\TravelAgency.DataAccess.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.DataAccess\obj\Debug\net7.0\ref\TravelAgency.DataAccess.dll

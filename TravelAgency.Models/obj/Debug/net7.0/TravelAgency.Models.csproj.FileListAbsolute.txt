@@ -1,0 +1,15 @@
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.deps.json
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Utilities.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Utilities.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.AssemblyReference.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.AssemblyInfoInputs.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.AssemblyInfo.cs
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.CoreCompileInputs.cache
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.CopyComplete
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\refint\TravelAgency.Models.dll
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.pdb
+C:\Users\cques\Documents\Udemy\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\ref\TravelAgency.Models.dll
